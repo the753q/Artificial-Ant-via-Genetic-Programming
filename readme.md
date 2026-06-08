@@ -1,3 +1,6 @@
+## Artificial Ant Programmed via Genetic Programming
+![Visualization of an ant on a Santa Fe map](media/santa_fe_only.gif)
+
 ### Run
 Package manager uv for python is reguired.
 

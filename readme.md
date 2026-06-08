@@ -3,7 +3,7 @@ Harness for performing various experiments using genetic programming on an artif
 For a certain experiment, ant is usually trained on multiple maps at once, across multiple train runs.
 
 ![Visualization of an ant on a Santa Fe map](media/santa_fe_only.gif)  
-*visualization of an ant on only the Santa Fe map*
+*visualization of an ant trained on only the Santa Fe map*
 
 ### Run
 Package manager uv for python is reguired.
